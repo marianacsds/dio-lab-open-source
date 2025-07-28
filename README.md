@@ -93,3 +93,9 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+# Mariana Camila
+
+Sou estudante de Engenharia de Software em transição de carreira, iniciando minhas contribuições Open Source! 🚀
+
+GitHub: [@marianacsds](https://github.com/marianacsds)  
+LinkedIn: [Mariana Camila](https://www.linkedin.com/in/mariana-camila-27479a279/)
